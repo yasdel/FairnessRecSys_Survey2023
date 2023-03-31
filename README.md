@@ -14,11 +14,3 @@ The table serves as overview and extension of the works discussed in the followi
 }
 ```
 
-## Papers
-### Item recommendation systems
-| Year  | Authors | Title       |Venue  |Content|Code | Dataset |
-|------|-------|-------|------|------|---------------|-------|
-|2021|Yu et al.|[Visually aware recommendation with aesthetic features](https://link.springer.com/article/10.1007%2Fs00778-021-00651-y)|VLDB Journal| Temporal/item information||[Link](wwww.amazon.com)
-|2020|Li et al.|[Bootstrapping Complete the Look at Pinterest](https://dl.acm.org/doi/abs/10.1145/3394486.3403382)|SIGKDD|Style||[Link](www.polyvore.com)
-|2020| Meichen et al.| [Design and realization of a collocation recommendation system for women's clothing](http://www.fzxb.org.cn/EN/10.13475/j.fzxb.20191200510)|Fangzhi Xuebao/Journal of Textile Research|
-
