@@ -16,6 +16,10 @@ The table serves as overview and extension of the works discussed in the followi
 
 ## Papers
 
+| Year  | Authors | Title       |Venue  |Content|Code | Dataset |
+|------|-------|-------|------|------|---------------|-------|
+|2021|Yu et al.|[Visually aware recommendation with aesthetic features](https://link.springer.com/article/10.1007%2Fs00778-021-00651-y)|VLDB Journal| Temporal/item information||[Link](wwww.amazon.com)
+
 ### Consumer Fairness
 | Year  | Authors | Title           | Venue    |  Dataset |   Code   | 
 |-------|--------|-----------|---------|---------|---------|---------|
