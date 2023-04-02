@@ -15,12 +15,7 @@ The table serves as overview and extension of the works discussed in the followi
 ```
 
 ## Papers
-
-| Year  | Authors | Title       |Venue  |Content|Code | Dataset |
-|------|-------|-------|------|------|---------------|-------|
-|2021|Yu et al.|[Visually aware recommendation with aesthetic features](https://link.springer.com/article/10.1007%2Fs00778-021-00651-y)|VLDB Journal| Temporal/item information||[Link](wwww.amazon.com)
-
 ### Consumer Fairness
-| Year  | Authors | Title           | Venue    |  Dataset |   Code   | 
-|-------|--------|-----------|---------|---------|---------|---------|
-|2022|**[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)**| FAccTRec | German Credit, syntheic |[Code](https://anonymous.4open.science/r/e0517e40-c47f-4cb7-bb72-4f80d2a5f4b0/)
+| Year  | Authors | Title       |Venue  |Dataset | Code |
+|------|-------|-------|------|------|---------------|-------|
+|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| German Credit, syntheic||[Link]()
