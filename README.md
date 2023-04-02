@@ -18,6 +18,6 @@ The table serves as overview and extension of the works discussed in the followi
 ## Papers
 # Consumer Fairness
 | Year  | Authors | Title       |Venue  |Dataset | Attribute |Code  | Key points |
-|------|-------|---------|------|------|---------------|-------|-------------------------|
+|----|---------|-------------------------|------|------|--------|-------|-------------------------|
 |2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| GermanCredit, Syntheic|[Link]()|Demographics|Shows how randomized ranking can increase inequality.
 |2022|Lin et al.|[Towards Fair Conversational Recommender Systems](https://arxiv.org/abs/2208.03854)|FAccTRec| LastFM|[Link]()||
