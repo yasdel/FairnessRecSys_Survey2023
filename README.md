@@ -17,7 +17,8 @@ The table serves as overview and extension of the works discussed in the followi
 
 | Year  | Authors | Title       |Venue  |Content|Code | Dataset |
 |------|-------|-------|------|------|---------------|-------|
-|2021|Yu et al.|[Visually aware recommendation with aesthetic features](https://link.springer.com/article/10.1007%2Fs00778-021-00651-y)|VLDB Journal| Temporal/item information||[Link](wwww.amazon.com)
+|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems]([https://link.springer.com/article/10.1007%2Fs00778-021-00651-y](https://arxiv.org/abs/2209.05000)|FAccTRec| GermanCredit, Syntheic||[Link](wwww.amazon.com)
+|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems]([https://link.springer.com/article/10.1007%2Fs00778-021-00651-y](https://arxiv.org/abs/2209.05000)|FAccTRec| GermanCredit, Syntheic||[Link](wwww.amazon.com)
 
 ## Papers
 | Year  | Authors | Title       |Venue  |Dataset | Code |
