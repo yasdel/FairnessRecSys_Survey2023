@@ -19,5 +19,5 @@ The table serves as overview and extension of the works discussed in the followi
 # Consumer Fairness
 | Year  | Authors | Title       |Venue  |Dataset | Code  | Key points |
 |------|-------|-------|------|------|---------------|-------|
-|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| GermanCredit, Syntheic|[Link]()|Normative assumption that viewed recommendations being concentrated to a small number of users is inherently unfair
+|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| GermanCredit, Syntheic|[Link]()|Shows how randomized ranking can increase inequality.
 |2022|Bower et al.|[Towards Fair Conversational Recommender Systems](https://arxiv.org/abs/2208.03854)|FAccTRec| LastFM|[Link](wwww.amazon.com)|
