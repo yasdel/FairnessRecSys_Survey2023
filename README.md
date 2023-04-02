@@ -16,8 +16,7 @@ The table serves as overview and extension of the works discussed in the followi
 
 ## Papers
 
-### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
-| Year        | Title           | Venue    |  Dataset |   Code   | 
-|-------|--------|-----------|---------|---------|
-
+### Consumer Fairness
+| Year  | Authors | Title           | Venue    |  Dataset |   Code   | 
+|-------|--------|-----------|---------|---------|---------|---------|
 |2022|**[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems[(https://arxiv.org/abs/2209.05000)**| FAccTRec | German Credit, syntheic |[Code](https://anonymous.4open.science/r/e0517e40-c47f-4cb7-bb72-4f80d2a5f4b0/)|
