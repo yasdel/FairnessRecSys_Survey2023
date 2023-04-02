@@ -15,7 +15,6 @@ The table serves as overview and extension of the works discussed in the followi
 ```
 
 ## Papers
-### Consumer Fairness
 | Year  | Authors | Title       |Venue  |Dataset | Code |
 |------|-------|-------|------|------|---------------|-------|
-|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| German Credit, syntheic||[Link]()
+|2022|Bower et al.|[Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems](https://arxiv.org/abs/2209.05000)|FAccTRec| German Credit, syntheic||
