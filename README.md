@@ -286,5 +286,5 @@ The table serves as overview and extension of the works discussed in the followi
 |[Who Pays? Personalization, Bossiness and the Cost of Fairness](https://arxiv.org/abs/2209.04043 )|FAccTRec||x, , |||
 |[Analyzing the Effect of Sampling in GNNs on Individual Fairness](https://arxiv.org/abs/2209.03904 )|FAccTRec|BlogCatalog, Flickr|x, , |||
 |2022|Mirae Kim, Simon Woo|[Discussion about Attacks and Defenses for Fair and Robust Recommendation System Design](https://www.researchgate.net/publication/363432484_Discussion_about_Attacks_and_Defenses_for_Fair_and_Robust_Recommendation_System_Design )|FAccTRec||, , |||
-|[RecSys Fairness Metrics: Many to Use But Which One To Choose?](https://arxiv.org/abs/2209.04011 )|FAccTRec||, , |||
+|[RecSys Fairness Metrics: Many to Use But Which One To Choose?](https://arxiv.org/abs/2209.04011 )|FAccTRec|||||
 |2015|Tobias Schnabel, Adith Swaminathan, Thorsten Joachims|[Unbiased Ranking Evaluation on a Budget.](https://doi.org/10.1145/2740908.2742565)|WWW (Companion Volume)||, , |||
