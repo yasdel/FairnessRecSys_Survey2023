@@ -282,7 +282,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2022|Masoud Mansoury, Bamshad Mobasher, Herke van Hoof|[Exposure-Aware Recommendation using Contextual Bandits](https://arxiv.org/abs/2209.01665 )|FAccTRec|Amazon, Movielens|genres|||
 |2022|Riku Togashi, Kenshi Abe|[Fair Matrix Factorisation for Large-Scale Recommender Systems](https://arxiv.org/abs/2209.04394 )|FAccTRec|ML20M, MDS|Provider attribute|||
 |2022|Michael D. Ekstrand, Maria Soledad Pera|[Matching Consumer Fairness Objectives & Strategies for RecSys](https://arxiv.org/abs/2209.02662 )|FAccTRec||Consumer attribute|||
-|[A Stakeholder-Centered View on Fairness in Music Recommender Systems](https://arxiv.org/abs/2209.06126 )|FAccTRec|||||
+|2022|Karlijn Dinnissen, Christine Bauer|[A Stakeholder-Centered View on Fairness in Music Recommender Systems](https://arxiv.org/abs/2209.06126 )|FAccTRec|||||
 |2022|Paresha Farastu, Nicholas Mattei, Robin Burke|[Who Pays? Personalization, Bossiness and the Cost of Fairness](https://arxiv.org/abs/2209.04043 )|FAccTRec||Consumer attribute|||
 |2022|Rebecca Salganik, Fernando Diaz, Golnoosh Farnadi|[Analyzing the Effect of Sampling in GNNs on Individual Fairness](https://arxiv.org/abs/2209.03904 )|FAccTRec|BlogCatalog, Flickr|Consumer attribute|||
 |2022|Mirae Kim, Simon Woo|[Discussion about Attacks and Defenses for Fair and Robust Recommendation System Design](https://www.researchgate.net/publication/363432484_Discussion_about_Attacks_and_Defenses_for_Fair_and_Robust_Recommendation_System_Design )|FAccTRec|||||
